@@ -71,5 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ###Technologies
 1.React
 2.Tailwind CSS
+3. React Bootstrap
 <!-- 3.react-typed-npm.js -->
 4.typewriter-effect
